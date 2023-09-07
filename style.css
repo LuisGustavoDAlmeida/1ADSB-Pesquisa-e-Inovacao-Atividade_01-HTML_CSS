@@ -1,0 +1,30 @@
+.fundo_a {
+    background-color: #303E8C;
+    width: 100vw;
+    height: 500px;
+}
+
+.fundo_b {
+    background-color: #3F61A6;
+    width: 50%;
+    height: 50vw;
+}
+
+.paragrafo_c {
+    color: white;
+    background-color: grey;
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 100vw;
+}
+.div_d {
+    background-color: #D5E7F2;
+    width: 100vw;
+    height: 50vw;
+}
+.div_e {
+    background-color: #8AB5BF;
+    width: 50%;
+    height: 50vw;
+}
